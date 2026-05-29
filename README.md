@@ -1,6 +1,6 @@
 # Discord-to-telegram
 
-choose your language:
+choose your language: [Русский](https://github.com/ImFraGushka/Discord-to-telegram/blob/main/README_ru.md)
 
 # 🔔 Discord to Telegram Notifier
 
